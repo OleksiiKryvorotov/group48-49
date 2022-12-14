@@ -1,6 +1,6 @@
-package Lesson2;
+package Lesson3;
 
-public class Lesson2 {
+public class Lesson3 {
 
     public static void main(String[] args) {
 
@@ -27,6 +27,7 @@ public class Lesson2 {
 
     //=================================
     public static void printText (int i, int text){
+
         System.out.println("Result sum " + i +  " = " + text);
     }
 
