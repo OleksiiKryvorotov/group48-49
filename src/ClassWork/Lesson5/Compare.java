@@ -30,5 +30,7 @@ public class Compare {
         System.out.println(str1.equals(str3));
         System.out.println(str1.equals(str4));
         System.out.println(str3.equals(str4));
+
+
     }
 }
