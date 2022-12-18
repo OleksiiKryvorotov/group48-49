@@ -24,7 +24,7 @@ public class BinarSystem {
         int i;
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Введите любое целочисленное число, 0 для выхода");
+        //System.out.println("Введите любое целочисленное число, 0 для выхода");
         str = scanner.nextLine();
 
         i = Integer.parseInt(str);
