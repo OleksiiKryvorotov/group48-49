@@ -1,6 +1,6 @@
 package ClassWork.Lesson7;
 
-public class IfElseContitionExample {
+public class IfElseConditionExample {
     public static void main(String[] args) {
 
         /*int x=100;
@@ -21,7 +21,7 @@ public class IfElseContitionExample {
         if (x < 100 && (x % 2 == 0))
         //вычисляем знач. выражения (x<100) - результат или true или false
         //вычисляем знач. выражения (x % 2 ==0) - результат или true или false
-        //для этого выражения сперва вычмсл. остаток от деления ч % 2
+        //для этого выражения сперва вычмсл. остаток от деления x % 2
         // и далее сравнивается этот результат с 0
         //
         //
