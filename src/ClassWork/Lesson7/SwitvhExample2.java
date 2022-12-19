@@ -7,7 +7,7 @@ public class SwitvhExample2 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input you choose :");
-        int userInput = scanner.nextLine();
+        int userInput = scanner.nextInt();
 
         switch (userInput) {
             case 1:
