@@ -1,4 +1,4 @@
-package Tasks1;
+package TASKS.Tasks1;
 
 public class Tasks1 {
 

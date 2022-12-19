@@ -1,10 +1,8 @@
-package Lesson5;
+package ClassWork.Lesson5;
 
-      public class Person {
-        public String name;
+public class Person {
 
-        public static String town = "Dnepropetrovsk";
-    }
+    public String name;
+    public static String town = "Dnepropetrovsk";
 
-
-
+}

@@ -1,12 +1,12 @@
-package Tasks1;
+package HomeWorks.HW2_1;
 
-public class Converter1 {
+public class Converter {
 
 //Перевод в троичную систему:
 
     public String to3(int i) {
         String str = "";
-        while (i > 0) {
+        while (i > 0) {  // Цикл - оператор, который позволяет многократно выполнять действия
         str += i%3;
         i = i/3;
         }
