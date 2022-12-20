@@ -1,4 +1,4 @@
-package HomeWorks.HW2_2;
+package HomeWorks.HW2_1;
 
 public class hm2_2 {
 
