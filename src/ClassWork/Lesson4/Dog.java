@@ -1,4 +1,4 @@
-package Lesson4;
+package ClassWork.Lesson4;
 
 public class Dog {
     String name;
